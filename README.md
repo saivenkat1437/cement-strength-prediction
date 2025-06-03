@@ -14,8 +14,8 @@ In this project, we are given datasets that contain information about cement mix
 
 cement-strength-prediction/
 │
-├── train.csv # Training data
-├── test.csv # Test data for prediction
+├── train.csv # Training data/
+├── test.csv # Test data for prediction/
 ├── cement-strength-prediction.py # Main Python script
 
 
